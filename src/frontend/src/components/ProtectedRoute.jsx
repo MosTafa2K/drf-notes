@@ -52,3 +52,5 @@ function ProtectedRoute({ children }) {
 
     return isAtuhorized ? children : <Navigate to="/login" />;
 }
+
+export default ProtectedRoute;
