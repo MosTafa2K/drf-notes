@@ -1,6 +1,6 @@
-# DRF Notes
+# SimpleNotes
 
-DRF Notes is a full-stack web application for managing personal notes. It is built using Django Rest Framework (DRF) for the backend and React for the frontend.
+SimpleNotes is a full-stack web application for managing personal notes. It is built using Django Rest Framework (DRF) for the backend and React for the frontend.
 
 ## Features
 
